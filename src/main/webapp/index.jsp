@@ -80,7 +80,7 @@
      
                 <p>
                     <label>
-                        <input type="checkbox" value="terms"> I Agree <a href="http://ashokit.in">Terms & Conditions</a>
+                        <input type="checkbox" value="terms"> I Agree <a href="http://flipkart.com">Terms & Conditions</a>
                     </label>
                 </p>
      
